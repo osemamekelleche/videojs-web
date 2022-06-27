@@ -15,7 +15,7 @@
     width: 640,
     height: 360
   });
-
+  player.eme();
   player.src({
     src: 'https://www.udemy.com/assets/21248720/encrypted-files/out/v1/529784a0dd42485bb1a53d2901aa0a46/06c8dc12da2745f1b0b4e7c2c032dfef/842d4b8e2e014fbbb87c640ddc89d036/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoib3V0L3YxLzUyOTc4NGEwZGQ0MjQ4NWJiMWE1M2QyOTAxYWEwYTQ2LzA2YzhkYzEyZGEyNzQ1ZjFiMGI0ZTdjMmMwMzJkZmVmLzg0MmQ0YjhlMmUwMTRmYmJiODdjNjQwZGRjODlkMDM2LyIsImV4cCI6MTY1NjM0NzkzOH0.Tib7Y8tbJ0zmaK2tQ0ioqgXF-wLb1k2pD70Is7_zabs&provider=cloudfront&v=1',
     type: 'application/dash+xml',
